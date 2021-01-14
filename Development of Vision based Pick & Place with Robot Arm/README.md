@@ -70,6 +70,6 @@ Hasan, Hasan Mahmud.
 2. Nidhi, “Image Processing and Object Detection”, International Journal of
 Applied Research 2015; 1(9): 396-399
 Websites:
-3. PyImageSearch, https://www.pyimagesearch.com/2016/03/28/measuringsize-of-objects-in-an-image-with-opencv/. Accessed on Jan 2018.
+3. PyImageSearch, https://www.pyimagesearch.com/2016/03/28/measuringsize-of-objects-in-an-image-with-opencv/.
 4. OpenCV Docs, https://docs.opencv.org/3.4.1/d6/d00/tutorial_py_root.html
-Accessed on April 2018.
+
